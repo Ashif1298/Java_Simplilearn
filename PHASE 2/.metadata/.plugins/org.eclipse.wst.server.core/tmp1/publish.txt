@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Mar 22 10:13:20 IST 2022
+org.eclipse.jst.jee.server\:Login_Page_Validation=D\:\\software\\spring-tool-suite-3.9.8.RELEASE-e4.9.0-win32-x86_64 (1)\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Login_Page_Validation
+org.eclipse.jst.jee.server\:AddingNewProduct=D\:\\software\\spring-tool-suite-3.9.8.RELEASE-e4.9.0-win32-x86_64 (1)\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\AddingNewProduct
